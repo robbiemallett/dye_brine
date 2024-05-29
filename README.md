@@ -6,6 +6,10 @@ https://doi.org/10.31223/X5F976
 
 The above DOI will be replaced with the AoG code upon publication (with "in review" changed to the year).
 
+A release of this repo has been consistently archived at Zenodo:
+
+https://doi.org/10.5281/zenodo.11387505
+
 ## Code Guide
 
 All code is contained in Jupyter Notebooks within the /notebooks/ directory. The necessary Python virtual environment to run these notebooks can be found in the python_env.yml file. Instructions on how to build an environment based on this file can be found here: https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
