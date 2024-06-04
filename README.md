@@ -28,9 +28,7 @@ The snow pit data from the field experiments are in /data/dye_pit.ods
 
 The output of the temperature probe from the lab experiments are in /data/temperatureprobe_.csv
 
-The Sentinel-2 geotiff used to make the supplementary map figure is in S2_geotiff (top level directory)
-
-All photos in the manuscript are included in the top level directory /photos/
+All photos in the manuscript and the Sentinel-2 geotiff are included in the top level directory /photos/
 
 
 
